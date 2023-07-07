@@ -4,7 +4,7 @@
 
 <img src="https://crystalpvp.ru/bigpackets/fallout.png" alt="logo" width="40%" />
 
-<br>
+[click here to see the menu](https://crystalpvp.ru/bigpackets/menu.png)
 
 mirrors:
   
